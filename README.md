@@ -2,12 +2,9 @@
 
 
 
-
-# Solution statement:
-
-
 ![Sprint demo project](https://user-images.githubusercontent.com/82053164/126848913-790e0a6e-b477-49a7-b4c0-9e13eaef4683.png)
 
+# Solution statement:
 
 
 A user, visits this the Spotify.com page, a user is prompt with a login page,
