@@ -31,6 +31,6 @@ These are their key use-cases:
 
 # Contribution to the solution:
 
-I used Jira to track what I needed to do for the project, created my wireframe in adobe xd. I then created the app interface with tailwindcss.When a use enters an input and submits for a job result, the information/api is displayed. I created functionality with javascript: I used ayscn/await funcation to fecth the data, event listnters and dom manipulation to have the job search results to display in the html file.  I was able to use paramters the specify the location to Massachestts and the the job title of Software engineering. I  created variables where I used to to display the objects in the jobposting. 
+I used Jira to track what I needed to do for the project, created my wireframe in adobe xd. I then created the app interface with tailwindcss.When a use enters an input and submits for a job result, the information/api is displayed. I created functionality with javascript: I used ayscn/await funcation to fecth the data, event listnters and dom manipulation to have the job search results to display in the html file.  I was able to use paramters that specify the location to Massachestts and the job title of Software engineering. I  created variables where I used to to display the objects in the jobposting. 
 
 
