@@ -1,0 +1,317 @@
+{
+   "count":6936,
+   "__CLASS__":"Adzuna::API::Response::JobSearchResults",
+   "results":[
+      {
+         "longitude":-71.032828,
+         "company":{
+            "display_name":"IBM",
+            "__CLASS__":"Adzuna::API::Response::Company"
+         },
+         "adref":"eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVm5tcEk5WHI2eEdoNHVUUldvQk1nZyIsImkiOiIyMzIxNDkxMTU4In0.a4UIFBULU4mLHse6yuK0qQGZgSX_aMHnXP8vyMwSSdY",
+         "id":"2321491158",
+         "location":{
+            "display_name":"Chelsea, Suffolk County",
+            "area":[
+               "US",
+               "Massachusetts",
+               "Suffolk County",
+               "Chelsea"
+            ],
+            "__CLASS__":"Adzuna::API::Response::Location"
+         },
+         "category":{
+            "tag":"it-jobs",
+            "__CLASS__":"Adzuna::API::Response::Category",
+            "label":"IT Jobs"
+         },
+         "created":"2021-07-15T23:52:51Z",
+         "latitude":42.391764,
+         "salary_is_predicted":"0",
+         "description":", techniques and approaches and work with leading minds in the industry to build solutions you can be proud of. Your Role and Responsibilities IBM Research is seeking a <strong>Software</strong> <strong>Engineer</strong> ...  to work at its Cambridge, MA location. As an AI <strong>Software</strong> <strong>Engineer</strong> on our Advanced Prototyping Team, you will operate at the intersection of cutting-edge research and real-world impact ...",
+         "redirect_url":"https://www.adzuna.com/land/ad/2321491158?se=VnmpI9Xr6xGh4uTRWoBMgg&utm_medium=api&utm_source=26e3f636&v=C76AD2E48C4414B81B4B9E96203AE16EAC8147F6",
+         "title":"AI <strong>Software</strong> <strong>Engineer</strong>",
+         "__CLASS__":"Adzuna::API::Response::Job"
+      },
+      {
+         "created":"2021-07-15T23:53:03Z",
+         "category":{
+            "tag":"it-jobs",
+            "label":"IT Jobs",
+            "__CLASS__":"Adzuna::API::Response::Category"
+         },
+         "latitude":42.332803,
+         "id":"2321491276",
+         "location":{
+            "area":[
+               "US",
+               "Massachusetts",
+               "Norfolk County",
+               "Brookline"
+            ],
+            "display_name":"Brookline, Norfolk County",
+            "__CLASS__":"Adzuna::API::Response::Location"
+         },
+         "company":{
+            "__CLASS__":"Adzuna::API::Response::Company",
+            "display_name":"IBM"
+         },
+         "adref":"eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVm5tcEk5WHI2eEdoNHVUUldvQk1nZyIsImkiOiIyMzIxNDkxMjc2In0.1E4A_9LzxxQM_ynjZpS_HPoyK29nu8tlvknlPK233a8",
+         "longitude":-71.13891,
+         "__CLASS__":"Adzuna::API::Response::Job",
+         "redirect_url":"https://www.adzuna.com/land/ad/2321491276?se=VnmpI9Xr6xGh4uTRWoBMgg&utm_medium=api&utm_source=26e3f636&v=CB25A36B0FF91FEB239028A6A0892D641D214FF7",
+         "title":"AI <strong>Software</strong> <strong>Engineer</strong>",
+         "description":", techniques and approaches and work with leading minds in the industry to build solutions you can be proud of. Your Role and Responsibilities IBM Research is seeking a <strong>Software</strong> <strong>Engineer</strong> ...  to work at its Cambridge, MA location. As an AI <strong>Software</strong> <strong>Engineer</strong> on our Advanced Prototyping Team, you will operate at the intersection of cutting-edge research and real-world impact ...",
+         "salary_is_predicted":"0"
+      },
+      {
+         "description":", techniques and approaches and work with leading minds in the industry to build solutions you can be proud of. Your Role and Responsibilities IBM Research is seeking a <strong>Software</strong> <strong>Engineer</strong> ...  to work at its Cambridge, MA location. As an AI <strong>Software</strong> <strong>Engineer</strong> on our Advanced Prototyping Team, you will operate at the intersection of cutting-edge research and real-world impact ...",
+         "salary_is_predicted":"0",
+         "__CLASS__":"Adzuna::API::Response::Job",
+         "title":"AI <strong>Software</strong> <strong>Engineer</strong>",
+         "redirect_url":"https://www.adzuna.com/land/ad/2321491200?se=VnmpI9Xr6xGh4uTRWoBMgg&utm_medium=api&utm_source=26e3f636&v=CAD3A8397DDC08E3CA9364B85F1327930B3FA5B8",
+         "adref":"eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjMyMTQ5MTIwMCIsInMiOiJWbm1wSTlYcjZ4R2g0dVRSV29CTWdnIn0.bA2XG_LC2wOWafI-7klDJJZJ5TlAhAoeqmZ0LE1nlq4",
+         "company":{
+            "display_name":"IBM",
+            "__CLASS__":"Adzuna::API::Response::Company"
+         },
+         "longitude":-71.106164,
+         "latitude":42.41843,
+         "category":{
+            "tag":"it-jobs",
+            "__CLASS__":"Adzuna::API::Response::Category",
+            "label":"IT Jobs"
+         },
+         "created":"2021-07-15T23:52:56Z",
+         "location":{
+            "__CLASS__":"Adzuna::API::Response::Location",
+            "area":[
+               "US",
+               "Massachusetts",
+               "Middlesex County",
+               "Medford"
+            ],
+            "display_name":"Medford, Middlesex County"
+         },
+         "id":"2321491200"
+      },
+      {
+         "redirect_url":"https://www.adzuna.com/land/ad/2321491246?se=VnmpI9Xr6xGh4uTRWoBMgg&utm_medium=api&utm_source=26e3f636&v=ACC013C34C8494C51747162DED397678182C8822",
+         "title":"Research <strong>Software</strong> <strong>Engineer</strong>",
+         "__CLASS__":"Adzuna::API::Response::Job",
+         "salary_is_predicted":"0",
+         "description":", techniques and approaches and work with leading minds in the industry to build solutions you can be proud of. Your Role and Responsibilities We’re looking for a Research <strong>Software</strong> <strong>Engineer</strong> ...  industry, from healthcare to financial services to education. In your role as a Research <strong>Software</strong> <strong>Engineer</strong>, you will interact with the brightest minds in AI and will help transform AI ...",
+         "id":"2321491246",
+         "location":{
+            "__CLASS__":"Adzuna::API::Response::Location",
+            "area":[
+               "US",
+               "Massachusetts",
+               "Suffolk County",
+               "Boston"
+            ],
+            "display_name":"Boston, Suffolk County"
+         },
+         "category":{
+            "label":"IT Jobs",
+            "__CLASS__":"Adzuna::API::Response::Category",
+            "tag":"it-jobs"
+         },
+         "created":"2021-07-15T23:53:00Z",
+         "latitude":42.354856,
+         "longitude":-71.066119,
+         "company":{
+            "display_name":"IBM",
+            "__CLASS__":"Adzuna::API::Response::Company"
+         },
+         "adref":"eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVm5tcEk5WHI2eEdoNHVUUldvQk1nZyIsImkiOiIyMzIxNDkxMjQ2In0.I-jFBEBRj-0rhzEgigMReaAhDwdKq9AnKjGAo_UVFWE"
+      },
+      {
+         "description":", techniques and approaches and work with leading minds in the industry to build solutions you can be proud of. Your Role and Responsibilities We’re looking for a Research <strong>Software</strong> <strong>Engineer</strong> ...  industry, from healthcare to financial services to education. In your role as a Research <strong>Software</strong> <strong>Engineer</strong>, you will interact with the brightest minds in AI and will help transform AI ...",
+         "salary_is_predicted":"0",
+         "__CLASS__":"Adzuna::API::Response::Job",
+         "redirect_url":"https://www.adzuna.com/land/ad/2321491324?se=VnmpI9Xr6xGh4uTRWoBMgg&utm_medium=api&utm_source=26e3f636&v=C0E6330081E2E50284BECA2AC74B8C238F0308FF",
+         "title":"Research <strong>Software</strong> <strong>Engineer</strong>",
+         "company":{
+            "display_name":"IBM",
+            "__CLASS__":"Adzuna::API::Response::Company"
+         },
+         "adref":"eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjMyMTQ5MTMyNCIsInMiOiJWbm1wSTlYcjZ4R2g0dVRSV29CTWdnIn0.eCM4Cw2BRbOuqhy5dh6zrAqefMrybmur-M7aqS_YS6U",
+         "longitude":-71.032828,
+         "created":"2021-07-15T23:53:06Z",
+         "category":{
+            "tag":"it-jobs",
+            "__CLASS__":"Adzuna::API::Response::Category",
+            "label":"IT Jobs"
+         },
+         "latitude":42.391764,
+         "id":"2321491324",
+         "location":{
+            "__CLASS__":"Adzuna::API::Response::Location",
+            "display_name":"Chelsea, Suffolk County",
+            "area":[
+               "US",
+               "Massachusetts",
+               "Suffolk County",
+               "Chelsea"
+            ]
+         }
+      },
+      {
+         "__CLASS__":"Adzuna::API::Response::Job",
+         "title":"Research <strong>Software</strong> <strong>Engineer</strong>",
+         "redirect_url":"https://www.adzuna.com/land/ad/2321491251?se=VnmpI9Xr6xGh4uTRWoBMgg&utm_medium=api&utm_source=26e3f636&v=B2F3D89BE838D2268D74C3D836AFF464D63B3050",
+         "description":", techniques and approaches and work with leading minds in the industry to build solutions you can be proud of. Your Role and Responsibilities We’re looking for a Research <strong>Software</strong> <strong>Engineer</strong> ...  industry, from healthcare to financial services to education. In your role as a Research <strong>Software</strong> <strong>Engineer</strong>, you will interact with the brightest minds in AI and will help transform AI ...",
+         "salary_is_predicted":"0",
+         "latitude":42.37093,
+         "category":{
+            "__CLASS__":"Adzuna::API::Response::Category",
+            "label":"IT Jobs",
+            "tag":"it-jobs"
+         },
+         "created":"2021-07-15T23:53:00Z",
+         "location":{
+            "__CLASS__":"Adzuna::API::Response::Location",
+            "display_name":"Watertown, Middlesex County",
+            "area":[
+               "US",
+               "Massachusetts",
+               "Middlesex County",
+               "Watertown"
+            ]
+         },
+         "id":"2321491251",
+         "adref":"eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVm5tcEk5WHI2eEdoNHVUUldvQk1nZyIsImkiOiIyMzIxNDkxMjUxIn0.1a3DTcqf3cPFW0OBLRTCrugv5KUfb2FUFAo4igumvnc",
+         "company":{
+            "display_name":"IBM",
+            "__CLASS__":"Adzuna::API::Response::Company"
+         },
+         "longitude":-71.182832
+      },
+      {
+         "description":", techniques and approaches and work with leading minds in the industry to build solutions you can be proud of. Your Role and Responsibilities We’re looking for a Research <strong>Software</strong> <strong>Engineer</strong> ...  industry, from healthcare to financial services to education. In your role as a Research <strong>Software</strong> <strong>Engineer</strong>, you will interact with the brightest minds in AI and will help transform AI ...",
+         "salary_is_predicted":"0",
+         "__CLASS__":"Adzuna::API::Response::Job",
+         "title":"Research <strong>Software</strong> <strong>Engineer</strong>",
+         "redirect_url":"https://www.adzuna.com/land/ad/2310084496?se=VnmpI9Xr6xGh4uTRWoBMgg&utm_medium=api&utm_source=26e3f636&v=F0BBF0F27125FD8653B79744B43A1C56174F4A40",
+         "adref":"eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVm5tcEk5WHI2eEdoNHVUUldvQk1nZyIsImkiOiIyMzEwMDg0NDk2In0.5tiId3k1BWu5IQc-wwDJRrG3eKNZADQAZFujPIWedEc",
+         "company":{
+            "__CLASS__":"Adzuna::API::Response::Company",
+            "display_name":"IBM"
+         },
+         "longitude":-71.13891,
+         "latitude":42.380327,
+         "created":"2021-07-10T07:52:13Z",
+         "category":{
+            "__CLASS__":"Adzuna::API::Response::Category",
+            "label":"IT Jobs",
+            "tag":"it-jobs"
+         },
+         "location":{
+            "__CLASS__":"Adzuna::API::Response::Location",
+            "area":[
+               "US",
+               "Massachusetts",
+               "Middlesex County",
+               "Cambridge"
+            ],
+            "display_name":"Cambridge, Middlesex County"
+         },
+         "id":"2310084496"
+      },
+      {
+         "category":{
+            "__CLASS__":"Adzuna::API::Response::Category",
+            "label":"IT Jobs",
+            "tag":"it-jobs"
+         },
+         "created":"2021-07-15T23:52:48Z",
+         "latitude":42.332803,
+         "id":"2321491137",
+         "location":{
+            "display_name":"Brookline, Norfolk County",
+            "area":[
+               "US",
+               "Massachusetts",
+               "Norfolk County",
+               "Brookline"
+            ],
+            "__CLASS__":"Adzuna::API::Response::Location"
+         },
+         "company":{
+            "__CLASS__":"Adzuna::API::Response::Company",
+            "display_name":"IBM"
+         },
+         "adref":"eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjMyMTQ5MTEzNyIsInMiOiJWbm1wSTlYcjZ4R2g0dVRSV29CTWdnIn0.fQV1sslEjxvAa4A19RJokgREGguTLzNSFiNPgX1qjnU",
+         "longitude":-71.13891,
+         "__CLASS__":"Adzuna::API::Response::Job",
+         "redirect_url":"https://www.adzuna.com/land/ad/2321491137?se=VnmpI9Xr6xGh4uTRWoBMgg&utm_medium=api&utm_source=26e3f636&v=E8BA79EE4EA87AEDBF5C6DFB13479BFD970CC9C7",
+         "title":"Research <strong>Software</strong> <strong>Engineer</strong>",
+         "description":", techniques and approaches and work with leading minds in the industry to build solutions you can be proud of. Your Role and Responsibilities We’re looking for a Research <strong>Software</strong> <strong>Engineer</strong> ...  industry, from healthcare to financial services to education. In your role as a Research <strong>Software</strong> <strong>Engineer</strong>, you will interact with the brightest minds in AI and will help transform AI ...",
+         "salary_is_predicted":"0"
+      },
+      {
+         "id":"2321491274",
+         "location":{
+            "display_name":"Arlington, Middlesex County",
+            "area":[
+               "US",
+               "Massachusetts",
+               "Middlesex County",
+               "Arlington"
+            ],
+            "__CLASS__":"Adzuna::API::Response::Location"
+         },
+         "created":"2021-07-15T23:53:03Z",
+         "category":{
+            "tag":"it-jobs",
+            "__CLASS__":"Adzuna::API::Response::Category",
+            "label":"IT Jobs"
+         },
+         "latitude":42.423216,
+         "longitude":-71.153764,
+         "company":{
+            "__CLASS__":"Adzuna::API::Response::Company",
+            "display_name":"IBM"
+         },
+         "adref":"eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjMyMTQ5MTI3NCIsInMiOiJWbm1wSTlYcjZ4R2g0dVRSV29CTWdnIn0.sUJsqemE7L8ztFE8j7x5Q2gP5mRGJAdLeF1AzWOZ2Gw",
+         "redirect_url":"https://www.adzuna.com/land/ad/2321491274?se=VnmpI9Xr6xGh4uTRWoBMgg&utm_medium=api&utm_source=26e3f636&v=4CA35B1B506583437C96992E4880E6A42B4560E6",
+         "title":"Research <strong>Software</strong> <strong>Engineer</strong>",
+         "__CLASS__":"Adzuna::API::Response::Job",
+         "salary_is_predicted":"0",
+         "description":", techniques and approaches and work with leading minds in the industry to build solutions you can be proud of. Your Role and Responsibilities We’re looking for a Research <strong>Software</strong> <strong>Engineer</strong> ...  industry, from healthcare to financial services to education. In your role as a Research <strong>Software</strong> <strong>Engineer</strong>, you will interact with the brightest minds in AI and will help transform AI ..."
+      },
+      {
+         "location":{
+            "area":[
+               "US",
+               "Massachusetts",
+               "Middlesex County",
+               "Everett"
+            ],
+            "display_name":"Everett, Middlesex County",
+            "__CLASS__":"Adzuna::API::Response::Location"
+         },
+         "id":"2321491248",
+         "latitude":42.40843,
+         "created":"2021-07-15T23:53:00Z",
+         "category":{
+            "label":"IT Jobs",
+            "__CLASS__":"Adzuna::API::Response::Category",
+            "tag":"it-jobs"
+         },
+         "longitude":-71.053663,
+         "adref":"eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjMyMTQ5MTI0OCIsInMiOiJWbm1wSTlYcjZ4R2g0dVRSV29CTWdnIn0.FvIoFnPWJAxI0fLHueMFeug0hmS2UXlgxTXRS4ZbLq0",
+         "company":{
+            "display_name":"IBM",
+            "__CLASS__":"Adzuna::API::Response::Company"
+         },
+         "title":"Research <strong>Software</strong> <strong>Engineer</strong>",
+         "redirect_url":"https://www.adzuna.com/land/ad/2321491248?se=VnmpI9Xr6xGh4uTRWoBMgg&utm_medium=api&utm_source=26e3f636&v=EB4FCC3E199130C2D43611CE18AF8DFE7E218439",
+         "__CLASS__":"Adzuna::API::Response::Job",
+         "salary_is_predicted":"0",
+         "description":", techniques and approaches and work with leading minds in the industry to build solutions you can be proud of. Your Role and Responsibilities We’re looking for a Research <strong>Software</strong> <strong>Engineer</strong> ...  industry, from healthcare to financial services to education. In your role as a Research <strong>Software</strong> <strong>Engineer</strong>, you will interact with the brightest minds in AI and will help transform AI ..."
+      }
+   ],
+   "mean":134430.66
+}
