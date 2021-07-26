@@ -27,8 +27,8 @@ searchForm.addEventListener('submit', async function (event) {
 
 // this will appear in the html file/job search result output:
     jobResultTag.innerHTML =
-        `<h1 class="text-4xl">Results found for ${jobTitle} in Massachusetts</h1>
-</div>`
+        `<h1 class="text-4xl">Results found for ${jobTitle} in Massachusetts</h1>`
+   
     jobData.forEach(function (job) {
         const div = document.createElement('div')
         div.innerHTML =
